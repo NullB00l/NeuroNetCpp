@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeuroLab", "NeuroLab\NeuroLab.vcxproj", "{A65B16D9-EE9B-400F-BFBA-1B79D495C325}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL2", "Dll2\DLL2.vcxproj", "{08F1CD3E-BFC1-4107-B4FC-866707E64963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Debug|ARM.ActiveCfg = Debug|Win32
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Debug|x64.ActiveCfg = Debug|x64
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Debug|x64.Build.0 = Debug|x64
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Debug|x86.ActiveCfg = Debug|Win32
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Debug|x86.Build.0 = Debug|Win32
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Release|ARM.ActiveCfg = Release|Win32
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Release|x64.ActiveCfg = Release|x64
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Release|x64.Build.0 = Release|x64
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Release|x86.ActiveCfg = Release|Win32
+		{A65B16D9-EE9B-400F-BFBA-1B79D495C325}.Release|x86.Build.0 = Release|Win32
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Debug|ARM.ActiveCfg = Debug|Win32
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Debug|x64.ActiveCfg = Debug|x64
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Debug|x64.Build.0 = Debug|x64
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Debug|x86.ActiveCfg = Debug|Win32
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Debug|x86.Build.0 = Debug|Win32
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Release|ARM.ActiveCfg = Release|Win32
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Release|x64.ActiveCfg = Release|x64
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Release|x64.Build.0 = Release|x64
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Release|x86.ActiveCfg = Release|Win32
+		{08F1CD3E-BFC1-4107-B4FC-866707E64963}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
